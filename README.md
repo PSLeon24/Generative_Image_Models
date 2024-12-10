@@ -1,4 +1,4 @@
-# Image_Generative_Models
+# Generative_Image_Models
 Learning Generative Image Model with Deep Learning from scratch 5
 
 ## 1. 정규 분포(Normal Distribution)
