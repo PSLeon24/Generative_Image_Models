@@ -1,7 +1,8 @@
 # Generative_Image_Models
 Learning Generative Image Model with Deep Learning from scratch 5
 
-The purpose of generative models: 특정 데이터 x의 확률 분포 p(x)를 모델링한 다음, 모델링된 분포로부터 데이터를 샘플링하여 실제와 유사한 이미지/텍스트를 새롭게 생성하는 것
+### The purpose of generative models
+- 특정 데이터 x의 확률 분포 p(x)를 모델링한 다음, 모델링된 분포로부터 데이터를 샘플링하여 실제와 유사한 이미지/텍스트를 새롭게 생성하는 것
 
 ## 1. 정규 분포(Normal Distribution)
 
