@@ -12,6 +12,7 @@ Learning Generative Image Model with Deep Learning from scratch 5
 - parameter estimation(inference): 정의된 확률 분포가 주어진 샘플 데이터에 가장 잘 부합하도록 매개변수(i.e., 정규 분포의 경우 평균과 표준 편차)를 추정하는 작업
 
 ## 3. 다변량 정규 분포(Multivariate Normal Distribution)
+![image](https://github.com/user-attachments/assets/8b31158a-9c84-49a4-941c-031ea9390703)
 
 ## 4. 가우스 혼합 모델(Gaussian Mixture Model)
 
